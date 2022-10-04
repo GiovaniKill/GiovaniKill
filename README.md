@@ -16,13 +16,13 @@
 
 <h3>🛠 Stacks</h3>
 
-- [!(https://skillicons.dev/icons?i=js,ts,jest,react,redux,html,css,express,docker,mysql,git,github,linux)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,ts,jest,react,redux,html,css,express,docker,mysql,git,github,linux)](https://skillicons.dev)
 
 - JavaScript | Typescript | Jest | React | Redux | HTML | CSS | Express | Docker | MYSql | Git | GitHub | Linux
 
 <h3>🛠 Quero aprender</h3>
 
-- [!(https://skillicons.dev/icons?i=rust,py,java,go)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=rust,py,java,go)](https://skillicons.dev)
 
 - Rust | Python | Java | GO
 
@@ -32,7 +32,7 @@
 
 <br/><br/>
 
-[![Giovani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiovaniKill0110&show_icons=true)](https://github.com/GiovaniKill)
+[![Giovani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GiovaniKill&show_icons=true)](https://github.com/GiovaniKill)
 
 <br/>
 
@@ -50,7 +50,7 @@
 
 
 
-<h3> LinkedIn [!(https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) </h3>
+<h3> LinkedIn [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) </h3>
 
 <br>
 
