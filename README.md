@@ -28,7 +28,9 @@
 
 <hr>
 
-
+<h3> <a href="https://www.linkedin.com/in/giovanikill/">LinkedIn<a/>  </h3>
+  
+<hr>  
 
 <br/><br/>
 
@@ -43,14 +45,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniKill&show_icons=true)
 
 <br><br>
-
-
-
-<hr>
-
-
-
-<h3> <a href="https://www.linkedin.com/in/giovanikill/">LinkedIn<a/>  </h3>
 
 
 
