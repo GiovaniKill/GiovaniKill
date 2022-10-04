@@ -1,4 +1,4 @@
-### 🧐 Uau, só gente bonita por aqui mesmo... <h2> Meu nome é Giovani </h2>
+### 🧐 Uau, só gente bonita por aqui mesmo 👌 <h2> Meu nome é Giovani 🙋‍♂️ </h2>
 
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
 
@@ -28,7 +28,7 @@
 
 <hr>
 
-<h3> <a href="https://www.linkedin.com/in/giovanikill/">LinkedIn<a/>  </h3>
+<h3> ☑️ <a href="https://www.linkedin.com/in/giovanikill/">LinkedIn<a/>  </h3>
   
 <hr>  
 
