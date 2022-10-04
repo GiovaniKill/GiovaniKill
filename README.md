@@ -58,7 +58,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/giovanikill/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/giovanikill/"><img alt="LinkedIn" src="[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)"></a>
 
 </p>
 
