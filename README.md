@@ -50,17 +50,7 @@
 
 
 
-<h3> LinkedIn [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) </h3>
-
-<br>
-
-
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/giovanikill/"><img alt="LinkedIn" src="[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)"></a>
-
-</p>
+<h3> <a href="https://www.linkedin.com/in/giovanikill/">LinkedIn<a/>  </h3>
 
 
 
