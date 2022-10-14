@@ -10,6 +10,8 @@
 
 - 🎓 &nbsp; Estudante de programação na Trybe.
 
+- 👨🏻 &nbsp; Inglês fluente.
+
 - ✍️ &nbsp; Procuro aprender mais sobre análise de dados e inteligência artificial.
 
 
