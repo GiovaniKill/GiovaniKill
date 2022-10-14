@@ -29,7 +29,8 @@
 <hr>
 
 <h3> ☑️ <a href="https://www.linkedin.com/in/giovanikill/">LinkedIn<a/>  </h3>
-  
+<h3> ☑️ <b>Email:</b> giovanikill@hotmail.com  </h3>
+
 <hr>  
 
 <br/><br/>
