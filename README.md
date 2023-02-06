@@ -18,9 +18,9 @@
 
 <h3>🛠 Stacks</h3>
 
-- [![My Skills](https://skillicons.dev/icons?i=js,ts,jest,react,redux,html,css,express,docker,mysql,git,github,linux)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,ts,jest,react,redux,html,css,express,docker,mysql,git,github,linux,python)](https://skillicons.dev)
 
-- JavaScript | Typescript | Jest | React | Redux | HTML | CSS | Express | Docker | MYSql | Git | GitHub | Linux
+- JavaScript | Typescript | Jest | React | Redux | HTML | CSS | Express | Docker | MYSql | Git | GitHub | Linux | Python
 
 <h3>🛠 Quero aprender</h3>
 
