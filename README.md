@@ -24,9 +24,9 @@
 
 <h3>🛠 Quero aprender</h3>
 
-- [![My Skills](https://skillicons.dev/icons?i=rust,py,java,go)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=rust,java,go)](https://skillicons.dev)
 
-- Rust | Python | Java | GO
+- Rust | Java | GO
 
 <hr>
 
