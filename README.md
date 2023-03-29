@@ -1,6 +1,6 @@
 English version below 👇
 
-🇧🇷
+Português
 ### 🧐 Uau, só gente bonita por aqui mesmo 👌 <h2> Meu nome é Giovani 🙋‍♂️ </h2>
 
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
@@ -57,7 +57,7 @@ English version below 👇
 <hr>
   
   
-🇬🇧  
+English
 ### 🧐 Wow, just some really cute faces around here 👌 <h2> My name is Giovani 🙋‍♂️ </h2>
 
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
