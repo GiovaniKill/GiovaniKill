@@ -25,12 +25,6 @@ Português
 
 - JavaScript | Typescript | Jest | React | Redux | HTML | CSS | Express | Docker | MYSql | Git | GitHub | Linux | Python
 
-<h3>🛠 Quero aprender</h3>
-
-- [![My Skills](https://skillicons.dev/icons?i=rust,java,go)](https://skillicons.dev)
-
-- Rust | Java | Kotlyn | GO 
-
 <hr>
 
 <h3> ☑️ <a href="https://www.linkedin.com/in/giovanikill/">LinkedIn<a/>  </h3>
@@ -81,12 +75,6 @@ English
 - [![My Skills](https://skillicons.dev/icons?i=js,ts,jest,react,redux,html,css,express,docker,mysql,git,github,linux,python)](https://skillicons.dev)
 
 - JavaScript | Typescript | Jest | React | Redux | HTML | CSS | Express | Docker | MYSql | Git | GitHub | Linux | Python
-
-<h3>🛠 Want to learn</h3>
-
-- [![My Skills](https://skillicons.dev/icons?i=rust,java,go)](https://skillicons.dev)
-
-- Rust | Java | Kotlin | GO
 
 <hr>
 
