@@ -19,8 +19,7 @@ Português
 
 
 
-<h3>🛠 Stacks</h3>![2024-01-19_17-34](https://github.com/GiovaniKill/GiovaniKill/assets/99694430/20928e4b-5c13-4ce2-a049-ff437e60a8e7)
-![GDbKpIIXgAAZW2w](https://github.com/GiovaniKill/GiovaniKill/assets/99694430/81567fee-9255-4680-969e-7b802d76770e)
+<h3>🛠 Stacks</h3>![2024-01-19_17-34]
 
 
 - [![My Skills](https://skillicons.dev/icons?i=js,ts,jest,react,redux,html,css,express,docker,mysql,git,github,linux,python)](https://skillicons.dev)
