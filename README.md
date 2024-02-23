@@ -19,7 +19,7 @@ Português
 
 
 
-<h3>🛠 Stacks</h3>![2024-01-19_17-34]
+<h3>🛠 Stacks</h3>
 
 
 - [![My Skills](https://skillicons.dev/icons?i=js,ts,jest,react,redux,html,css,express,docker,mysql,git,github,linux,python)](https://skillicons.dev)
