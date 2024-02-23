@@ -2,7 +2,7 @@ English version below 👇
 
 <h2> Português </h2>
 <hr>
-<h2> Meu portfólio: [giovanijogos.fun](giovanijogos.fun) </h2>
+<h2> Meu portfólio: [giovanijogos.fun](https://www.giovanijogos.fun) </h2>
 
 🧐 Uau, só gente bonita por aqui mesmo 👌 <h2> Meu nome é Giovani 🙋‍♂️ </h2>
 
