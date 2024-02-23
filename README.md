@@ -2,7 +2,7 @@ English version below 👇
 
 <h2> Português </h2>
 <hr>
-<h2> Meu portfólio: [Giovani Jogos](www.giovanijogos.fun) </h2>
+<h2> Meu portfólio: www.giovanijogos.fun </h2>
 
 🧐 Uau, só gente bonita por aqui mesmo 👌 <h2> Meu nome é Giovani 🙋‍♂️ </h2>
 
@@ -57,7 +57,7 @@ English version below 👇
   
 <h2> English </h2>
 <hr>
-<h2> Meu portfólio: [giovanijogos.fun](giovanijogos.fun) </h2>
+<h2> Meu portfólio: www.giovanijogos.fun </h2>
 🧐 Wow, just some really cute faces around here 👌 <h2> My name is Giovani 🙋‍♂️ </h2>
 
 <img align='right' src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="230">
