@@ -14,7 +14,7 @@ English version below 👇
 
 - 🤔 &nbsp; Adoro achar soluções criativas para resolver problemas.
 
-- 🎓 &nbsp; Recém formado em desenvolvimento web pela Trybe.
+- 🎓 &nbsp; Formado em desenvolvimento web pela Trybe.
 
 - 👨🏻 &nbsp; Inglês fluente.
 
